@@ -11,3 +11,7 @@ define("VENDOR_PATH", ROOT_PATH.'/vendor');
 
 require_once VENDOR_PATH."/autoload.php";
 
+//Load Application
+use PHPJet\Core\Application;
+
+new Application();
