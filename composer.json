@@ -1,0 +1,16 @@
+{
+    "name" : "samdev/phpjet-framework",
+    "version" : "1.0.0",
+
+    "authors" : [
+        {
+            "name" : "Samer Moustafa",
+            "email" : "dev.samer@hotmail.com"
+        }
+    ],
+
+    "require" : {
+        "samdev/phpjet" : "dev-master"
+    }
+
+}
