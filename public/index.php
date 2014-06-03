@@ -11,4 +11,3 @@ define("VENDOR_PATH", ROOT_PATH.'/vendor');
 
 require_once VENDOR_PATH."/autoload.php";
 
-new PHPJet\TestClass();
